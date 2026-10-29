@@ -11,6 +11,7 @@ The job market is tough. Learning in public keeps me consistent and shows exactl
 | Day | Topic | Folder |
 |-----|-------|--------|
 | 1 | Formulas, ranges, workbooks, Backstage view, the Ribbon, shortcuts | [day-01-formulas-ribbon-shortcuts](./day-01-formulas-ribbon-shortcuts) |
+| 2 | Operators, cell references, COUNT functions, IF/IFS/AND/OR, errors | [day-02-formulas-functions-errors](./day-02-formulas-functions-errors) |
 
 ## Repo structure
 
