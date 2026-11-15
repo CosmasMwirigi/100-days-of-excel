@@ -14,6 +14,7 @@ The job market is tough. Learning in public keeps me consistent and shows exactl
 | 2 | Operators, cell references, COUNT functions, IF/IFS/AND/OR, errors | [day-02-formulas-functions-errors](./day-02-formulas-functions-errors) |
 | 3 | Math functions (SUMIFS, AVERAGEIFS, MINIFS), mean, median, mode, variance, standard deviation, quartiles, percentiles | [day-03-math-statistical-functions](./day-03-math-statistical-functions) |
 | 4 | RANK, dynamic and classic arrays, UNIQUE, SORT, SORTBY, MEDIAN with IF, SUMPRODUCT, TEXT | [day-04-rank-arrays-sumproduct-text](./day-04-rank-arrays-sumproduct-text) |
+| 5 | Lookups (VLOOKUP, HLOOKUP, XLOOKUP, INDEX + MATCH, TRANSPOSE), text functions, date and time functions | [day-05-lookups-text-dates](./day-05-lookups-text-dates) |
 
 ## Repo structure
 
