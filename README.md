@@ -16,6 +16,7 @@ The job market is tough. Learning in public keeps me consistent and shows exactl
 | 4 | RANK, dynamic and classic arrays, UNIQUE, SORT, SORTBY, MEDIAN with IF, SUMPRODUCT, TEXT | [day-04-rank-arrays-sumproduct-text](./day-04-rank-arrays-sumproduct-text) |
 | 5 | Lookups (VLOOKUP, HLOOKUP, XLOOKUP, INDEX + MATCH, TRANSPOSE), text functions, date and time functions | [day-05-lookups-text-dates](./day-05-lookups-text-dates) |
 | 6 | Protect Sheet, data validation, FILTER, NOT, SUBSTITUTE, Excel Tables and structured references | [day-06-protection-validation-tables](./day-06-protection-validation-tables) |
+| 7 | Pivot tables: four areas, Value Field Settings, grouping, Show Values As, calculated fields, measures, slicers | [day-07-pivot-tables](./day-07-pivot-tables) |
 
 ## Repo structure
 
