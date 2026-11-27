@@ -17,6 +17,7 @@ The job market is tough. Learning in public keeps me consistent and shows exactl
 | 5 | Lookups (VLOOKUP, HLOOKUP, XLOOKUP, INDEX + MATCH, TRANSPOSE), text functions, date and time functions | [day-05-lookups-text-dates](./day-05-lookups-text-dates) |
 | 6 | Protect Sheet, data validation, FILTER, NOT, SUBSTITUTE, Excel Tables and structured references | [day-06-protection-validation-tables](./day-06-protection-validation-tables) |
 | 7 | Pivot tables: four areas, Value Field Settings, grouping, Show Values As, calculated fields, measures, slicers | [day-07-pivot-tables](./day-07-pivot-tables) |
+| 8 | Add-ins, named cells, Goal Seek, Scenario Manager, Data Tables, Solver, Forecast Sheet, Analysis ToolPak, Power Query | [day-08-addins-what-if-analysis](./day-08-addins-what-if-analysis) |
 
 ## Repo structure
 
@@ -30,4 +31,5 @@ Each day has its own folder with:
 
 - LinkedIn: [Cosmas Mwirigi](https://www.linkedin.com/in/cosmas-mwirigi-501850115)
 - X (Twitter): [@MwirigiCosmas1](https://x.com/MwirigiCosmas1)
+- YouTube: [Taught By A Stranger](https://www.youtube.com/@TaughtByAStranger), short Excel lessons from these notes (playlist: Learn Excel 2024 and later)
 - Hashtag: #100DaysOfExcel
